@@ -52,7 +52,8 @@
 				A language usually has at least one implementation in the form of a compiler or interpreter, allowing programs written in the language to be executed.
 			</p>
 			<button class="btn btn-outline-light btn-lg"><span class="	fa fa-external-link"></span> Start ! its Free</button>
-			<a href="login_page.jsp" class="btn btn-outline-light btn-lg"> <span class="fa fa-user-circle	fa-spin"></span>Login</a>
+			<a href="login_page.jsp" class="btn btn-outline-light btn-lg"> <span class="fa fa-user-circle	fa-spin"></span>Login</a>      
+			
 		</div>
 	</div>
 
@@ -240,7 +241,7 @@ The C Language is developed by Dennis Ritchie for creating system applications t
 
   <!-- Copyright -->
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.05);">
-    © 2024 Copyright: Shivam Tripathi  9628209929 </br>
+    ï¿½ 2024 Copyright: Shivam Tripathi  9628209929 </br>
     <a class="text-body" href="mailto:shivamtripathi93758@gmail.com /">shivamtripathi93758@gmail.com</a>
   </div>
   <!-- Copyright -->
